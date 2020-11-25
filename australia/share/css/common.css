@@ -12257,6 +12257,7 @@ xx.js-enable .box-offices-globalarea .box-panel {
 .contact-us-03{
     max-width: 1000px;
     margin: auto;
+    margin-top: -75px;
 }
 .contact-us-03 .image img{
     width: 100%;
@@ -12326,7 +12327,8 @@ footer .footer-area-sub p.footer-copy {
   }
 .box-hdg-wrapper.contact-us-03 {
       min-height: 650px;
-      margin-bottom: 80px;
+      margin-bottom: 0px;
+      margin-top:-90px;
 }
 .box-singaporearea .box-offices-globalarea .box-inner .box-panel .panel {
     width: 100%;
@@ -12442,15 +12444,12 @@ footer .footer-area-sub p.footer-copy {
   max-width:1200px;
 }
 @media only screen and (min-width: 1024px) {
-.box-hdg-wrapper.type-05 .box-hdg-container{
-  top: 35%;
-}
+  .box-hdg-wrapper.type-05 .box-hdg-container{
+    top: 35%;
+  }
 }
 
 @media only screen and (min-width: 769px)  and (max-width: 1023px) {
-xx.box-hdg-wrapper.type-05 .box-hdg-container{
-      top: 60%;
-}
 .box-hdg-wrapper.type-05 {
     min-height: 75vh;
 }
@@ -12885,32 +12884,68 @@ xx.box-hdg-wrapper.type-05 .box-hdg-container{
     background-size: 100% 90%;
     top:-20px;
 }
+
 .str-top-section .image .section-image {
     position: relative;
     width:55% !important;
+    z-index:1;
 }
-.homepage-01.str-section-wrapper.str-top-section .image .section-image,
-.resources-01.str-section-wrapper.str-top-section .image .section-image {
-    left: 10%;
-}
-.our-medicines-01.str-section-wrapper.str-top-section .image .section-image,
-.contact-us-01.str-section-wrapper.str-top-section .image .section-image {
-  right: -5%;
-}
-
 .str-top-section .image .section-title-image {
     position: relative;
     width:30% !important;
-    z-index:1;
+    z-index:2;
 }
-.homepage-01.str-section-wrapper.str-top-section .image .section-title-image,
-.resources-01.str-section-wrapper.str-top-section .image .section-title-image {
-  left: 0%;
+
+@media screen and (max-width: 768px) {
+  .str-top-section .image .section-image { width:60% !important; }
+  .str-top-section .image .section-title-image { width:38% !important; }
+
+  .homepage-01.str-section-wrapper.str-top-section .image .section-image,
+  .resources-01.str-section-wrapper.str-top-section .image .section-image {
+    left: 15px;
+  }
+
+  .our-medicines-01.str-section-wrapper.str-top-section .image .section-title-image,
+  .contact-us-01.str-section-wrapper.str-top-section .image .section-title-image {
+    left: 15px;
+  }
+
+  .our-medicines-01.str-section-wrapper.str-top-section .image .section-image,
+  .contact-us-01.str-section-wrapper.str-top-section .image .section-image {
+    right: 5%;
+  }
+  .homepage-01.str-section-wrapper.str-top-section .image .section-title-image,
+  .resources-01.str-section-wrapper.str-top-section .image .section-title-image {
+    left: -5%;
+  }
+
 }
-.our-medicines-01.str-section-wrapper.str-top-section .image .section-title-image,
-.contact-us-01.str-section-wrapper.str-top-section .image .section-title-image {
-  left: 10%;
+@media screen and (min-width: 769px) {
+  .str-top-section .image .section-image { width:55% !important; }
+  .str-top-section .image .section-title-image { width:30% !important; }
+
+  .homepage-01.str-section-wrapper.str-top-section .image .section-image,
+  .resources-01.str-section-wrapper.str-top-section .image .section-image {
+    left: 10%;
+  }
+
+  .our-medicines-01.str-section-wrapper.str-top-section .image .section-title-image,
+  .contact-us-01.str-section-wrapper.str-top-section .image .section-title-image {
+    left: 10%;
+  }
+
+  .our-medicines-01.str-section-wrapper.str-top-section .image .section-image,
+  .contact-us-01.str-section-wrapper.str-top-section .image .section-image {
+    right: -5%;
+  }
+  .homepage-01.str-section-wrapper.str-top-section .image .section-title-image,
+  .resources-01.str-section-wrapper.str-top-section .image .section-title-image {
+    left: 0%;
+  }
+
 }
+
+
 
 .str-section-wrapper.section-bg-organic {
     background:url(/australia/images/index_bg_organic_01.png) no-repeat;
@@ -12919,7 +12954,7 @@ xx.box-hdg-wrapper.type-05 .box-hdg-container{
     padding:100px 0px 1px 0px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .str-section-wrapper.section-bg-organic {
       background-size: 100% 100% !important;
     }
@@ -12932,6 +12967,10 @@ xx.box-hdg-wrapper.type-05 .box-hdg-container{
     height: 0px;
     top: -75px;
     right: -100px;
+}
+
+@media screen and (max-width: 1023px) {
+  .str-section-wrapper .box-hdg2-wrapper .box-image.bg-top-right{ display: none;}
 }
 
 @media only screen and (min-width: 1024px) {
@@ -12965,18 +13004,18 @@ xx.box-hdg-wrapper.type-05 .box-hdg-container{
   }
 }
 
-.str-section-wrapper.resources-02 .box-panel-01 > .panel { color: #ffffff; border-bottom: 0px !important; }
-.str-section-wrapper.resources-02 .box-panel-01 > .panel > .box-inner { background-color:#ea5504; }
-.str-section-wrapper.resources-02 .box-panel-01 > .panel:not(.type-02) > .box-inner .box-content .box-date{ color:#ffffff; }
-.str-section-wrapper.resources-02 .box-panel-01 > .panel:not(.type-02) > .box-inner .box-content{ padding-bottom: 150px; }
+.str-section-wrapper.resources-03 .box-panel-01 > .panel { color: #ffffff; border-bottom: 0px !important; }
+.str-section-wrapper.resources-03 .box-panel-01 > .panel > .box-inner { background-color:#ea5504; }
+.str-section-wrapper.resources-03 .box-panel-01 > .panel:not(.type-02) > .box-inner .box-content .box-date{ color:#ffffff; }
+.str-section-wrapper.resources-03 .box-panel-01 > .panel:not(.type-02) > .box-inner .box-content{ padding-bottom: 150px; }
 @media only screen and (min-width: 769px) {
 .box-panel-01.col2.col21 > .panel:first-child { width: 66%;  }
 .box-panel-01.col2.col21 > .panel:last-child { width: calc(34% - 20px); }
 }
-.str-section-wrapper.resources-02 .box-panel-01.col2.col21 > .panel:first-child > .box-inner{ background-color: #1ba8d6 !important;  }
-.str-section-wrapper.resources-02 .box-panel-01 .panel .box-thumb img { height:100%; width:100%; }
-.str-section-wrapper.resources-02 .box-panel-01 .panel .btn-olc-small-size{ padding: 0px !important; }
-.str-section-wrapper.resources-02 .box-panel-01 .panel .icon-blank { margin-top: 25px;}
+.str-section-wrapper.resources-03 .box-panel-01.col2.col21 > .panel:first-child > .box-inner{ background-color: #1ba8d6 !important;  }
+.str-section-wrapper.resources-03 .box-panel-01 .panel .box-thumb img { height:100%; width:100%; }
+.str-section-wrapper.resources-03 .box-panel-01 .panel .btn-olc-small-size{ padding: 0px !important; }
+
 
 .white-arrow-right::after {
   background-image: url(/australia/share/images/icon_arrow_right_01.png);
@@ -13002,6 +13041,11 @@ ul.dot-list li::before {
 }
 ul.dot-list li{ padding-bottom: 10px;}
 
+@media only screen and (max-width: 768px) {
+  .tile.size-l {
+      height: calc(100vw / 2) !important;
+  }
+}
 /* css for resource articles */
 
 .resources-article-02 .box-text p,
