@@ -1331,6 +1331,8 @@ ol.showlist li ol{
   color: #fff;
   display: block;
   padding-right: 10px;
+  white-space:nowrap;
+
 }
 
 .footer .footer-link-sns {
@@ -12882,7 +12884,6 @@ footer .footer-area-sub p.footer-copy {
     position: relative;
     background:url(/australia/images/index_bg_mainsection_01.png) no-repeat;
     background-size: 100% 90%;
-    top:-20px;
 }
 
 .str-top-section .image .section-image {
@@ -13002,6 +13003,8 @@ footer .footer-area-sub p.footer-copy {
   .str-section-wrapper.our-medicines-02 .area-focus-wrapper .area-focus-icon.icon-02{
       margin-top:150px;
   }
+
+  .our-medicines-03 .box-image img { max-width:150px !important; }
 }
 
 .str-section-wrapper.resources-03 .box-panel-01 > .panel { color: #ffffff; border-bottom: 0px !important; }
