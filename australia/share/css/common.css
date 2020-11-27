@@ -12885,6 +12885,11 @@ footer .footer-area-sub p.footer-copy {
     background:url(/australia/images/index_bg_mainsection_01.png) no-repeat;
     background-size: 100% 90%;
 }
+@media screen and (min-width: 601px) {
+  .str-top-section {
+    top:-20px;
+  }
+}
 
 .str-top-section .image .section-image {
     position: relative;
@@ -13051,6 +13056,10 @@ footer .footer-area-sub p.footer-copy {
     max-width: 100%;
   }
 }
+
+.str-section-wrapper.resources-02a { padding-top:30px; }
+.str-section-wrapper.resources-02 { padding-top:50px; }
+
 .str-section-wrapper.resources-03 .box-panel-01 > .panel { color: #ffffff; border-bottom: 0px !important; }
 .str-section-wrapper.resources-03 .box-panel-01 > .panel > .box-inner { background-color:#ea5504; }
 .str-section-wrapper.resources-03 .box-panel-01 > .panel:not(.type-02) > .box-inner .box-content .box-date{ color:#ffffff; }

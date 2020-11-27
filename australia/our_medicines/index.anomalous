@@ -22,10 +22,14 @@
 <div class="str-section-wrapper">
 <div class="str-section str-section-boxed">
 <div class="box-hdg2-wrapper">
+<div class="box-content">
 <h2 class="hdg-lv2-02">Bringing innovation and technology to the patient-care journey</h2>
+<div class="box-text">
 <p class="text-lead">As part of Kyowa Kirin’s Commitment to Life, we have a focus in Australia on rare diseases and their treatments.</p>
 <br/>
 <p class="text-lead">We want to become a trusted partner to patients, carers, healthcare professionals and other stakeholders in this arena.</p>
+<!-- /.box-text --></div>
+<!-- /.box-content --></div>
 <!-- /.box-hdg2-wrapper --></div>
 <!-- /.str-section --></div>
 <!-- /.str-section-wrapper --></div>
@@ -69,7 +73,7 @@
 <!-- /.str-section-wrapper --></div>
 
 <div class="str-section-wrapper">
-<div class="str-section str-section-boxed">
+<div class="str-section str-section-boxed str-section-spacing">
 <div class="box-hdg2-wrapper">
   <h2 class="hdg-lv2-03">Making the journey count</h2>
   <div class="box-text text-center">
