@@ -13107,7 +13107,11 @@ ul.dot-list li{ padding-bottom: 10px;}
   .tile.size-l {
       height: calc(100vw / 2) !important;
   }
+  footer .footer-area-sub p.footer-copy {
+    font-size:1.4rem !important;
+  }
 }
+
 /* css for resource articles */
 
 .resources-article-02 .box-text p,
