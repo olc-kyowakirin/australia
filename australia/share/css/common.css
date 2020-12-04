@@ -12925,6 +12925,11 @@ footer .footer-area-sub p.footer-copy {
     left: -5%;
   }
 
+  .homepage-01.str-section-wrapper,
+  .our-medicines-01.str-section-wrapper{
+    margin-bottom:30px !important;
+  }
+
 }
 @media screen and (min-width: 769px) {
   .str-top-section .image .section-image { width:55% !important; }
@@ -13083,6 +13088,7 @@ footer .footer-area-sub p.footer-copy {
   background-color: #fff;
   padding: 20px;
 }
+.contact-us-03 .box-address-panel .box-text { margin:0px !important; }
 
 ul.dot-list{
   list-style:none;
