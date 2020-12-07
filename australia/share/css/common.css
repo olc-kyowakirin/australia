@@ -5746,7 +5746,6 @@ div#message-president .box-image{
 }
 
 .box-globalnetwork {
-  xxbackground-color: rgba(222, 222, 222, .4);
   margin-top:30px;
   margin-bottom: 16px;
 }
@@ -5830,22 +5829,6 @@ div#message-president .box-image{
 .box-offices-globalarea .box-inner .box-panel .panel .guide > img {
   width: 14px;
   height: 14px;
-}
-
-xx.box-offices-globalarea .box-inner .box-panel .panel::after {
-  background-image: url("../images/icon_globalnetwork_01.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: contain;
-  position: absolute;
-  top: 0;
-  right: -14px;
-  bottom: 0;
-  display: block;
-  width: calc(36px/2);
-  height: calc(68px/2);
-  margin: auto 0;
-  content: "";
 }
 
 .box-offices-globalarea .box-inner .box-panel .panel .box-thumb {
@@ -5939,13 +5922,6 @@ xx.box-offices-globalarea .box-inner .box-panel .panel::after {
 
 .js-enable .box-preview-globalarea .box-inner {
   padding-top: 0;
-}
-xx.js-enable .box-offices-globalarea .box-panel {
-  position: absolute;
-  z-index: 3;
-  top: 50%;
-  right: 87px;
-  transform: translateY(-50%);
 }
 
 .js-enable .box-offices-globalarea .box-panel {
@@ -9100,9 +9076,6 @@ xx.js-enable .box-offices-globalarea .box-panel {
     padding: 12px 15px;
   }
 
-  xx.box-globalnetwork {
-    background-color: #f4f4f4;
-  }
   .box-regionalnetwork{
     margin-top: 100px;
   }
@@ -12199,6 +12172,8 @@ xx.js-enable .box-offices-globalarea .box-panel {
 .str-section.str-section-boxed-1200px{
   max-width: 1200px;
   margin: 0 auto;
+  padding-left:0px !important;
+  padding-right:0px !important;
 }
 
 .str-section-wrapper.olc-button-section .box-hdg2-wrapper{
@@ -12259,7 +12234,7 @@ xx.js-enable .box-offices-globalarea .box-panel {
 .contact-us-03{
     max-width: 1000px;
     margin: auto;
-    margin-top: -75px;
+    margin-top: -50px;
 }
 .contact-us-03 .image img{
     width: 100%;
@@ -12315,23 +12290,13 @@ footer .footer-area-sub p.footer-copy {
     padding-bottom: 40px;
 }
 
-.str-section-wrapper.contact-us-03{
-  background-image: url('/australia/images/index_img_singapore_01.jpg');
-  background-repeat: no-repeat;
-  background-position: bottom center;
-  background-size: cover;
-  position: relative;
-  content:'';
-}
 @media only screen and (min-width: 769px){
-  .str-section-wrapper.contact-us-03{
-    min-height: 400px;
-  }
-.box-hdg-wrapper.contact-us-03 {
+  .box-hdg-wrapper.contact-us-03 {
       min-height: 650px;
-      margin-bottom: 0px;
-      margin-top:-90px;
-}
+      margin-bottom: 80px;
+      margin-top: -90px !important;
+    }
+
 .box-singaporearea .box-offices-globalarea .box-inner .box-panel .panel {
     width: 100%;
     margin: 10px;
@@ -12392,9 +12357,6 @@ footer .footer-area-sub p.footer-copy {
   padding: 0 23px;
 }
 @media only screen and (max-width:1023px){
-  .str-section-wrapper.contact-us-03{
-    min-height: 300px;
-  }
 .box-hdg-wrapper.type-05 .box-hdg-container{
   padding: 0 10% !important;
 }
@@ -12437,7 +12399,7 @@ footer .footer-area-sub p.footer-copy {
 .box-hdg-wrapper.type-05 .box-hdg-container{
   position: absolute;
   z-index: 2;
-  top: 45%;
+  top: 35%;
   width: 100%;
   display:block;
   margin:auto;
@@ -12485,7 +12447,6 @@ footer .footer-area-sub p.footer-copy {
   line-height: 1.3em;
 }
 
-.str-section-wrapper.contact-us-03 .str-section,
 .str-section-wrapper.contact-us-04 .str-section{
   max-width: 1200px;
 }
@@ -12908,21 +12869,21 @@ footer .footer-area-sub p.footer-copy {
 
   .homepage-01.str-section-wrapper.str-top-section .image .section-image,
   .resources-01.str-section-wrapper.str-top-section .image .section-image {
-    left: 15px;
+    left: 3vw;
+  }
+  .homepage-01.str-section-wrapper.str-top-section .image .section-title-image,
+  .resources-01.str-section-wrapper.str-top-section .image .section-title-image {
+    left: -3vw;
   }
 
   .our-medicines-01.str-section-wrapper.str-top-section .image .section-title-image,
   .contact-us-01.str-section-wrapper.str-top-section .image .section-title-image {
-    left: 15px;
+    left: 3vw;
   }
 
   .our-medicines-01.str-section-wrapper.str-top-section .image .section-image,
   .contact-us-01.str-section-wrapper.str-top-section .image .section-image {
-    right: 5%;
-  }
-  .homepage-01.str-section-wrapper.str-top-section .image .section-title-image,
-  .resources-01.str-section-wrapper.str-top-section .image .section-title-image {
-    left: -5%;
+    right: 3vw;
   }
 
   .homepage-01.str-section-wrapper,
@@ -12960,7 +12921,7 @@ footer .footer-area-sub p.footer-copy {
 
 .str-section-wrapper.section-bg-organic {
     background:url(/australia/images/index_bg_organic_01.png) no-repeat;
-    background-size: 64% 100%;
+    background-size: 65% 100%;
     background-position:center;
     padding:100px 0px 1px 0px;
 }
@@ -12998,6 +12959,11 @@ footer .footer-area-sub p.footer-copy {
 }
 @media only screen and (min-width: 1024px) {
   .str-section-wrapper.homepage-06 .image img { position: relative; width: 80%; left:10%;}
+}
+
+.str-section-wrapper.our-medicines-02 .box-hdg2-wrapper .box-text {
+  max-width: 450px;
+  margin: 0 auto;
 }
 
 @media only screen and (min-width: 769px) {
@@ -13082,14 +13048,6 @@ footer .footer-area-sub p.footer-copy {
   background-image: url(/australia/share/images/icon_arrow_right_01.png);
 }
 
-.contact-us-03 .box-address-panel {
-  max-width: 350px;
-  box-shadow: 1px 2px 2px 1px #c3c3c3;
-  background-color: #fff;
-  padding: 20px;
-}
-.contact-us-03 .box-address-panel .box-text { margin:0px !important; }
-
 ul.dot-list{
   list-style:none;
   padding-left: 1em;
@@ -13113,9 +13071,34 @@ ul.dot-list li{ padding-bottom: 10px;}
 }
 
 /* css for resource articles */
-
 .resources-article-02 .box-text p,
 .resources-article-02 .box-text .image { padding-bottom:20px !important; }
 /* general css */
 .box-button-olc{ padding-top:20px; }
 .no-wrap{ white-space:nowrap; }
+
+/* contact us page map */
+/* ========================================================================= */
+/* CONTACT US MAP LINKS */
+.map-area { position:relative;float:left; width:100%; height:auto; }
+.map-area .map-image {position:unset !important;}
+.map-area .map-link { position: absolute; width: 2.9%; height: 4.55%; z-index: 2;}
+.map-area .map-link-ko { left: 60%; top: 11.95%;}
+.map-area .map-link-ch { left: 56.4%; top: 17.34%;}
+.map-area .map-link-tw { left: 57.2%; top: 23.23%;}
+.map-area .map-link-kk { left: 52.4%; top: 26.94%;}
+.map-area .map-link-th { left: 45.6%; top: 36.36%;}
+.map-area .map-link-my { left: 46.5%; top: 43.6%;}
+.map-area .map-link-sg { left: 48.5%; top: 49.49%;}
+.map-area .map-link-au { left: 72.8%; top: 90%;}
+
+.box-hdg-wrapper.contact-us-03 { pointer-events: none;}
+.box-hdg-wrapper.contact-us-03 a { pointer-events:all;}
+.map-popup.box-modal-outbound{}
+.map-popup.box-modal-outbound .box-modal-inner{
+  top:25%;
+  background: transparent !important;
+  border: 0px solid #ccc;
+  padding:0px !important;
+}
+.map-popup.box-modal-outbound .panel{ width:100% !important; box-shadow: 1px 1px 2px rgba(0, 0, 0, .3) !important; }

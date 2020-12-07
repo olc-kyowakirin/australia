@@ -1,8 +1,8 @@
 <partial src="../includes/header-start.html"/>
-<title>Contact Us - Kyowa Kirin</title>
-<meta name="description" content="Kyowa Kirin Asia Pacific is headquartered in Singapore, with regional networks in the following markets.">
-<meta property="og:title" content="Contact Us - Kyowa Kirin">
-<meta property="og:description" content="Kyowa Kirin Asia Pacific is headquartered in Singapore, with regional networks in the following markets.">
+<title>Contact Us - Kyowa Kirin Australia</title>
+<meta name="description" content="Kyowa Kirin Australia Pty Ltd, 68 York Street, Sydney NSW 2000, Australia - E-mail: enquiry.kkau@kyowakirin.com">
+<meta property="og:title" content="Contact Us - Kyowa Kirin Australia">
+<meta property="og:description" content="Kyowa Kirin Australia Pty Ltd, 68 York Street, Sydney NSW 2000, Australia - E-mail: enquiry.kkau@kyowakirin.com">
 <partial src="../includes/header-title.html"/>
 <link rel="canonical" href="https://www.kyowakirin.com/australia/contact_us/index.html">
 <partial src="../includes/header-end.html"/>
@@ -20,63 +20,33 @@
 <!-- /.str-section-wrapper --></div>
 
 <div class="box-hdg-wrapper type-05 kkc-anime_load_other-mainvisual contact-us-03">
+
 <div class="box-hdg-container">
 <div class="box-content-left">
-  <div class="box-address-panel">
-<h2 class="hdg-lv2-03">Kyowa Kirin Australia Pty Ltd</h2>
+<h1 class="hdg-lv1-02">Kyowa Kirin Australia</h1>
+
 <div class="box-content">
+<h3 class="title"><span class="sub">Kyowa Kirin Australia Pty Ltd</span></h3>
 <p class="box-text">68 York Street<br>Sydney<br>NSW 2000, Australia<br/><br/>E-mail:<a href="mailto:enquiry.kkau@kyowakirin.com" target="_blank">&nbsp;enquiry.kkau@kyowakirin.com</a></p>
 <!--<p class="link-icon link-text"><span>Visit website</span></p>-->
 </div>
-<!-- .address-panel --></div>
+
 <!-- /.box-content-left --></div>
 <!-- /.box-hdg-container --></div>
-
-
 <div class="image">
 <div class="map-area" >
-<img class="map-image" src="images/index_bg_mainsection_contact_map.png" alt="" usemap="#asia-pacific-network-map">
-<a popup-name="map-popup" class="map-link text-link-sub" href="#outBoundModal-popup-ko" title="Korea" style="left: 60%; top: 11.95%;"></a>
-<a popup-name="map-popup" class="map-link text-link-sub" href="#outBoundModal-popup-ch" title="China" style="left: 56.4%; top: 17.34%;"></a>
-<a popup-name="map-popup" class="map-link text-link-sub" href="#outBoundModal-popup-tw" title="Taiwan" style="left: 57.2%; top: 23.23%;"></a>
-<a popup-name="map-popup" class="map-link text-link-sub" href="#outBoundModal-popup-kk" title="Hong Kong" style="left: 52.4%; top: 26.94%;"></a>
-<a popup-name="map-popup" class="map-link text-link-sub" href="#outBoundModal-popup-th" title="Thailand" style="left: 45.6%; top: 36.36%;"></a>
-<a popup-name="map-popup" class="map-link text-link-sub" href="#outBoundModal-popup-my" title="Malaysia" style="left: 46.5%; top: 43.6%;"></a>
-<a popup-name="map-popup" class="map-link text-link-sub" href="#outBoundModal-popup-sg" title="Singapore" style="left: 48.5%; top: 49.49%;"></a>
-<a popup-name="map-popup" class="map-link text-link-sub" href="#outBoundModal-popup-au" title="Australia" style="left: 72.8%; top: 90%;"></a>
-</div>
-<style>
-div.map-area { position:relative;float:left; width:100%; height:auto; }
-div.map-area .map-image {position:unset !important;}
-div.map-area .map-link { position: absolute; width: 2.9%; height: 4.55%; z-index: 2;}
-</style>
+<img class="map-image" src="images/index_bg_mainsection_contact_map.png" alt="">
+<a class="map-link text-link-sub map-link-ko" href="#outBoundModal-popup-ko" title="Korea"></a>
+<a class="map-link text-link-sub map-link-ch" href="#outBoundModal-popup-ch" title="China"></a>
+<a class="map-link text-link-sub map-link-tw" href="#outBoundModal-popup-tw" title="Taiwan"></a>
+<a class="map-link text-link-sub map-link-kk" href="#outBoundModal-popup-kk" title="Hong Kong"></a>
+<a class="map-link text-link-sub map-link-th" href="#outBoundModal-popup-th" title="Thailand"></a>
+<a class="map-link text-link-sub map-link-my" href="#outBoundModal-popup-my" title="Malaysia"></a>
+<a class="map-link text-link-sub map-link-sg" href="#outBoundModal-popup-sg" title="Singapore"></a>
+<a class="map-link text-link-sub map-link-au" href="#outBoundModal-popup-au" title="Australia"></a>
+<!-- /.map-area --></div>
 <!-- /.image --></div>
 <!-- /.box-hdg-wrapper --></div>
-<!--<map name="asia-pacific-network-map">
-  <area shape="circle" coords="504,303,25" alt="Singapore" href="#outBoundModal-popup-sg" class="text-link-sub">
-  <area shape="circle" coords="669,485,25" alt="Australia" href="#outBoundModal-popup-au" class="text-link-sub">
-  <area shape="circle" coords="579,113,25" alt="China" href="#outBoundModal-popup-ch" class="text-link-sub">
-  <area shape="circle" coords="537,177,25" alt="Hong Kong" href="#outBoundModal-popup-kk" class="text-link-sub">
-  <area shape="circle" coords="617,81,25" alt="Korea" href="#outBoundModal-popup-ko" class="text-link-sub">
-  <area shape="circle" coords="484,277,25" alt="Malaysia" href="#outBoundModal-popup-my" class="text-link-sub">
-  <area shape="circle" coords="475,226,25" alt="Thailand" href="#outBoundModal-popup-th" class="text-link-sub">
-  <area shape="circle" coords="586,156,25" alt="Taiwan" href="#outBoundModal-popup-tw" class="text-link-sub">
-</map>
--->
-<style>
-.contact-us-02 .box-hdg-container { pointer-events: none;}
-.contact-us-02 .box-hdg-container a { pointer-events:all;}
-.map-popup.box-modal-outbound{}
-.map-popup.box-modal-outbound .box-modal-inner{
-  top:25%;
-  background: transparent !important;
-  border: 0px solid #ccc;
-  padding:0px !important;
-}
-.map-popup.box-modal-outbound .panel{ width:100% !important; box-shadow: 1px 1px 2px rgba(0, 0, 0, .3) !important; }
-</style>
-
-
 
 <div class="str-section-wrapper contact-us-04">
 <div class="str-section">
@@ -91,7 +61,7 @@ div.map-area .map-link { position: absolute; width: 2.9%; height: 4.55%; z-index
 <div class="box-panel">
 
   <!--Singapore -->
-  <a href="http#" target="_blank" class="panel">
+  <a href="https://www.kyowakirin.com/asiapacific/index.html" target="_blank" class="panel">
   <div class="box-thumb"><img src="images/index_img_regionalnetwork_panel_singapore_01.jpg" alt=""></div>
   <div class="box-content">
   <h3 class="title"><span class="sub">SINGAPORE</span>Kyowa Kirin Asia Pacific Pte. Ltd.</h3>
@@ -180,18 +150,17 @@ div.map-area .map-link { position: absolute; width: 2.9%; height: 4.55%; z-index
 <!-- /.str-section-wrapper --></div>
 
 <div class="str-section-wrapper str-section-grey-bg contact-us-05">
-<div class="str-section str-section-spacing">
+<div class="str-section str-section-boxed str-section-spacing">
 <div class="box-get-to-know-us">
 <div class="box-hdg2-wrapper">
 <h2 class="hdg-lv2-03">Join us</h2>
 <div class="box-text"><p class="text-lead">If who we are and what we do resonates with you, then click on the link below for a listing of current vacancies.</p></div>
-<div class="box-text text-center"><a href="#" class="btn-olc-small-size btn-grey-orange"><span>View our Job openings on LinkedIn</span></a></div>
+<div class="box-text text-center"><a href="https://www.linkedin.com/company/kyowakirinasiapacific/jobs/?viewAsMember=true" class="btn-olc-small-size btn-grey-orange" target="_blank"><span>View our Job openings on LinkedIn</span></a></div>
 <!-- /.box-hdg2-wrapper --></div>
 <!-- /.box-get-to-know-us --></div>
 <!-- /.str-section --></div>
 <br/><br/><br/>
 <!-- /.str-section-wrapper --></div>
 
-<style> .wrapper{ padding-bottom:0px; } .footer{ background-color: #f3f3f3; }</style>
-<!-- /.str-section-wrapper --></div>
 <partial src="../includes/footer.html"/>
+<style> .wrapper{ padding-bottom:0px; } .footer{ background-color: #f3f3f3; }</style>
