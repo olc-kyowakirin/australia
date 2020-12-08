@@ -24,9 +24,7 @@
 <div class="box-content">
 <h2 class="hdg-lv2-02">Bringing innovation and technology to the patient-care journey</h2>
 <div class="box-text">
-<p class="text-lead">As part of Kyowa Kirin’s Commitment to Life, we have a focus in Australia on rare diseases and their treatments.</p>
-<br/>
-<p class="text-lead">We want to become a trusted partner to patients, carers, healthcare professionals and other stakeholders in this arena.</p>
+<p class="text-lead">As part of Kyowa Kirin’s Commitment to Life, we have a focus in Australia on rare diseases and their treatments. We want to become a trusted partner to patients, carers, healthcare professionals and other stakeholders in this arena.</p>
 <!-- /.box-text --></div>
 <!-- /.box-content --></div>
 <!-- /.box-hdg2-wrapper --></div>
@@ -36,7 +34,13 @@
 <div class="str-section-wrapper our-medicines-03">
 <div class="str-section str-section-boxed-800px str-section-spacing">
 <div class="box-hdg2-wrapper">
-  <h2 class="hdg-lv2-03">Embarking on a journey that is less visited</h2>
+  <div class="box-content">
+  <h2 class="hdg-lv2-03 text-left">Embarking on a journey that is less visited</h2>
+  <div class="box-text">
+  <p class="text-lead text-left">Numerous promising pharmaceutical candidates are emerging from our development pipelines — the result of our efforts to hone our state-of-the-art technologies and deliver innovation in rare disease.</p>
+  <!-- /.box-text --></div>
+  <!-- /.box-content --></div>
+
   <div class="box-layout-image layout-keep-spt layout-left content-valign">
   <div class="box-content">
     <h2 class="hdg-lv2-05">Cutaneous T-cell Lymphoma (CTCL)</h2>
@@ -60,10 +64,6 @@
     <img src="/australia/our_medicines/images/index_img_our_medicine_04.jpg" alt="">
   <!-- image --></div>
   <!-- /.box-layout-image --></div>
-
-  <div class="box-text text-center">
-    <p>Numerous promising pharmaceutical candidates are emerging from our development pipelines — the result of our efforts to hone our state-of-the-art technologies and deliver innovation in rare disease.</p>
-  <!-- .box-text --></div>
 <!-- /.box-hdg2-wrapper --></div>
 
 <!-- /.str-section --></div>

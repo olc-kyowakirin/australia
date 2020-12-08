@@ -938,6 +938,7 @@ a {
 }
 .header > .header-inner .logo img:nth-child(2) {
     max-width: 190px;
+    margin-bottom:1px;
 }
 .header > .header-inner .header-nav {
   float: right;
@@ -9972,7 +9973,7 @@ div#message-president .box-image{
     padding-top: 10px;
   }
   .header > .header-inner .logo img:nth-child(2){
-    margin-top:-10px;
+    margin-:-10px;
   }
   .header-nav .header-nav-list.header-menu-sp .box-input-search {
     margin-bottom: 22px;
@@ -12175,7 +12176,10 @@ div#message-president .box-image{
   padding-left:0px !important;
   padding-right:0px !important;
 }
-
+.str-section.str-section-boxed-1200px .box-text {
+  padding-left:10px;
+  padding-right:10px;
+}
 .str-section-wrapper.olc-button-section .box-hdg2-wrapper{
   max-width: 600px;
   margin: auto;
@@ -12214,8 +12218,8 @@ div#message-president .box-image{
     padding-right: 30px;
 }
 }
-.text-lead.text-left{
-  text-align:left;
+.text-left{
+  text-align:left !important;
 }
 .workingwithus-04{
   background: #F3F3F3;
@@ -12288,6 +12292,10 @@ footer .footer-area-sub p.footer-copy {
 }
 .str-section-wrapper.our-medicines-05 {
     padding-bottom: 40px;
+}
+
+.box-hdg-wrapper.contact-us-03 .hdg-lv1-02 {
+    margin-bottom: 10px !important;
 }
 
 @media only screen and (min-width: 769px){
@@ -12846,7 +12854,7 @@ footer .footer-area-sub p.footer-copy {
     background:url(/australia/images/index_bg_mainsection_01.png) no-repeat;
     background-size: 100% 90%;
 }
-@media screen and (min-width: 601px) {
+@media screen and (min-width: 769px) {
   .str-top-section {
     top:-20px;
   }
@@ -13067,6 +13075,12 @@ ul.dot-list li{ padding-bottom: 10px;}
   }
   footer .footer-area-sub p.footer-copy {
     font-size:1.4rem !important;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  .str-section.str-section-boxed-1200px .box-breadcrumb {
+    padding-left: 10px;
+    padding-right: 10px;
   }
 }
 
