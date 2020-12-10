@@ -934,7 +934,7 @@ a {
   display: inline-block;
   width: 100%;
   max-width: 160px;
-  padding-right:10px;
+  margin-right:10px;
 }
 .header > .header-inner .logo img:nth-child(2) {
     max-width: 183px;
@@ -9963,16 +9963,17 @@ div#message-president .box-image{
     right: 20.02102vw;
   }
 }
-
+@media screen and (max-width: 600px) {
+  .header > .header-inner .logo img:nth-child(2){
+    margin-left: 9px;
+  }
+}
 @media screen and (max-width: 768px) {
   .box-mainvisual-top .parts-3{
     display:none;
   }
   .header > .header-inner .logo{
     padding-top: 10px;
-  }
-  .header > .header-inner .logo img:nth-child(2){
-    margin-:-10px;
   }
   .header-nav .header-nav-list.header-menu-sp .box-input-search {
     margin-bottom: 22px;
@@ -12953,8 +12954,8 @@ footer .footer-area-sub p.footer-copy {
 }
 
 @media only screen and (min-width: 1024px) {
-  .str-section-wrapper.homepage-04 .box-layout-image .box-content{ width:50%;}
-  .str-section-wrapper.homepage-04 .box-layout-image .box-image{ width:50%;}
+  .str-section-wrapper.homepage-04 .box-layout-image .box-content{ width:70%;}
+  .str-section-wrapper.homepage-04 .box-layout-image .box-image{ width:30%;}
 }
 .str-section-wrapper.homepage-04 .box-layout-image .box-image img{ max-width:100%;}
 .str-section-wrapper.homepage-04 .hdg-lv2-03{ text-align:left!important;}
