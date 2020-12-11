@@ -9989,9 +9989,6 @@ div#message-president .box-image{
     width: calc(76px/2);
   }
   .footer > .footer-inner .footer-link-sns,
-  .footer > .footer-inner .footer-link {
-    xmargin-bottom: calc(120px/2);
-  }
   .footer .footer-link > li {
     /* SP幅：フッターリンクの順番を入れ替える */
 /*
@@ -12031,7 +12028,7 @@ div#message-president .box-image{
     width: 100%;
     bottom: 0px;
     background: white;
-    color: #5d616;
+    color: #5d6164;
     z-index: 1000;
     padding: 1em;
     box-shadow: 0 -2px 2px rgba(0, 0, 0, .12);
