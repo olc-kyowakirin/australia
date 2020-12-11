@@ -1355,6 +1355,11 @@ ol.showlist li ol{
   opacity: .6;
 }
 
+.footer  .footer-link a img.icon-small {
+  height: 13px;
+  width: 13px;
+}
+
 .footer-link a img.icon-pdf,
 .footer-link a img.icon-blank {
   top: 3px;
@@ -7928,6 +7933,7 @@ div#message-president .box-image{
   .footer .footer-link-sns > li {
     margin-right: 18px;
   }
+
   .wrapper {
     padding-bottom: 100px;
   }
