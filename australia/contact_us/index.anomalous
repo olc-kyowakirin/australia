@@ -59,35 +59,15 @@
 <div class="box-inner">
 <div class="box-panel">
 
-  <!--Singapore -->
-  <a href="https://www.kyowakirin.com/asiapacific/index.html" target="_blank" class="panel">
-  <div class="box-thumb"><img src="images/index_img_regionalnetwork_panel_singapore_01.jpg" alt=""></div>
+<!--China -->
+<a href="http://www.kyowa-kirin.com.cn/en/index.html" target="_blank" class="panel">
+  <div class="box-thumb"><img src="images/index_img_regionalnetwork_panel_china_01.jpg" alt=""></div>
   <div class="box-content">
-  <h3 class="title"><span class="sub">SINGAPORE</span>Kyowa Kirin Asia Pacific Pte. Ltd.</h3>
-  <p class="box-text">80 Robinson Road<br>#22-01/01A<br/>Singapore 06889</p>
+  <h3 class="title"><span class="sub">CHINA</span>Kyowa Hakko Kirin China Pharmaceutical Co., Ltd.</h3>
+  <p class="box-text">970 Longdong Road<br>Pudong New Area<br>Shanghai, 201203, China<br>Tel. +86-021-5080-0909</p>
   <p class="link-icon link-text"><span>Visit website</span></p>
   </div>
-<!-- /.panel Singapore --></a>
-
-  <!--China -->
-  <a href="http://www.kyowa-kirin.com.cn/en/index.html" target="_blank" class="panel">
-    <div class="box-thumb"><img src="images/index_img_regionalnetwork_panel_china_01.jpg" alt=""></div>
-    <div class="box-content">
-    <h3 class="title"><span class="sub">CHINA</span>Kyowa Hakko Kirin China Pharmaceutical Co., Ltd.</h3>
-    <p class="box-text">970 Longdong Road<br>Pudong New Area<br>Shanghai, 201203, China<br>Tel. +86-021-5080-0909</p>
-    <p class="link-icon link-text"><span>Visit website</span></p>
-    </div>
 <!-- /.panel China --></a>
-
-<!--Malaysia -->
-<div class="panel">
-  <div class="box-thumb"><img src="images/index_img_regionalnetwork_panel_malaysia_01.jpg" alt=""></div>
-  <div class="box-content">
-  <h3 class="title"><span class="sub">MALAYSIA</span>Kyowa Kirin Malaysia Sdn Bhd<br/><span class="text-italic"><small>(formerly known as Kyowa Hakko Kirin (Malaysia) Sdn Bhd)</small></span></h3>
-  <p class="box-text">A501 West Wing, Wisma Consplant 2<br>Jalan SS 16/1, Subang Jaya<br>47500 Selangor, Malaysia<br>E-mail: <a href="mailto:enquiry.kkmy@kyowakirin.com" target="_blank">&nbsp;enquiry.kkmy@kyowakirin.com</a></p>
-  <!-- <p class="link-icon link-text"><span>Visit website</span></p> -->
-  </div>
-<!-- /.panel Malaysia --></div>
 
 <!--Hong Kong -->
 <a href="https://www.kyowakirin.com/hk/index.html" target="_blank" class="panel">
@@ -109,6 +89,35 @@
 </div>
 <!-- /.panel korea--></a>
 
+<!--Malaysia -->
+<div class="panel">
+  <div class="box-thumb"><a href="https://www.kyowakirin.com/malaysia/index.html" target="_blank" ><img src="images/index_img_regionalnetwork_panel_malaysia_01.jpg" alt=""></a></div>
+  <div class="box-content">
+  <h3 class="title"><span class="sub">MALAYSIA</span>Kyowa Kirin Malaysia Sdn Bhd<br/><span class="text-italic"><small>(formerly known as Kyowa Hakko Kirin (Malaysia) Sdn Bhd)</small></span></h3>
+  <p class="box-text">A501 West Wing, Wisma Consplant 2<br>Jalan SS 16/1, Subang Jaya<br>47500 Selangor, Malaysia<br>E-mail: <a href="mailto:enquiry.kkmy@kyowakirin.com" target="_blank">&nbsp;enquiry.kkmy@kyowakirin.com</a></p>
+  <p class="link-icon link-text"><a href="https://www.kyowakirin.com/malaysia/index.html" target="_blank"><span>Visit website</span></a></p>
+  </div>
+<!-- /.panel Malaysia --></div>
+
+  <!--Singapore -->
+  <a href="https://www.kyowakirin.com/asiapacific/index.html" target="_blank" class="panel">
+  <div class="box-thumb"><img src="images/index_img_regionalnetwork_panel_singapore_01.jpg" alt=""></div>
+  <div class="box-content">
+  <h3 class="title"><span class="sub">SINGAPORE</span>Kyowa Kirin Asia Pacific Pte. Ltd.</h3>
+  <p class="box-text">80 Robinson Road<br>#22-01/01A<br/>Singapore 06889</p>
+  <p class="link-icon link-text"><span>Visit website</span></p>
+  </div>
+<!-- /.panel Singapore --></a>
+
+<!--Taiwan -->
+<a href="https://www.kyowakirin.com/tw/index.html" target="_blank" class="panel">
+<div class="box-thumb"><img src="images/index_img_regionalnetwork_panel_taiwan_01.jpg" alt=""></div>
+<div class="box-content">
+<h3 class="title"><span class="sub">TAIWAN</span>Kyowa Kirin Taiwan Co., Ltd.</h3>
+<p class="box-text">9th floor, No. 68, Section 2<br>Zhongshan North Road, Zhongshan District<br>Taipei City, Taiwan 10448<br><br>富邦中山大樓9F<br>中山北路二段68號</p>
+  <p class="link-icon link-text"><span>Visit website</span></p>
+</div>
+<!-- /.panel Taiwan--></a>
 
 <!--Thailand -->
 <a href="https://www.kyowakirin.com/thailand/index.html" target="_blank" class="panel">
@@ -120,15 +129,6 @@
   </div>
 <!-- /.panel Thailand--></a>
 
-<!--Taiwan -->
-<a href="https://www.kyowakirin.com/tw/index.html" target="_blank" class="panel">
-<div class="box-thumb"><img src="images/index_img_regionalnetwork_panel_taiwan_01.jpg" alt=""></div>
-<div class="box-content">
-<h3 class="title"><span class="sub">TAIWAN</span>Kyowa Kirin Taiwan Co., Ltd.</h3>
-<p class="box-text">9th floor, No. 68, Section 2<br>Zhongshan North Road, Zhongshan District<br>Taipei City, Taiwan 10448<br><br>富邦中山大樓9F<br>中山北路二段68號</p>
-  <p class="link-icon link-text"><span>Visit website</span></p>
-</div>
-<!-- /.panel Taiwan--></a>
 
 <!--orange space -->
 <a href="https://www.kyowakirin.com/index.html#anc-global-network" target="_blank" class="panel panel-orange-space">
