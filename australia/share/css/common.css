@@ -350,6 +350,7 @@ template {
 }
 
 /* Icons */
+/*
 @font-face {
   font-family: "slick";
   font-weight: normal;
@@ -358,7 +359,7 @@ template {
   src: url("../font/slick.html");
   src: url("../font/slickd41d.html?#iefix") format("embedded-opentype"), url("../font/slick.woff") format("woff"), url("../font/slick.ttf") format("truetype"), url("../font/slick-2.html#slick") format("svg");
 }
-
+*/
 /* Arrows */
 .slick-prev,
 .slick-next {

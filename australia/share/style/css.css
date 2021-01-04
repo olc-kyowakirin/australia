@@ -544,7 +544,7 @@ float: left; */
 	vertical-align: middle;
 	width: 176px;
 	height: 56px;
-	background: url(../images/bg_localNavi_category.jpg) no-repeat top left;
+	background: url(../images/bg_localnavi_category.jpg) no-repeat top left;
 	font-size: 16px;
 	line-height: 1.2;
 	_display: inline;
@@ -568,11 +568,11 @@ float: left; */
 }
 
 #localNavi h2 a:hover {
-	background: url(../images/bg_localNavi_category.jpg) no-repeat 0 -100px;
+	background: url(../images/bg_localnavi_category.jpg) no-repeat 0 -100px;
 }
 
 #localNavi h2.current a{
-	background: url(../images/bg_localNavi_category.jpg) no-repeat 0 -200px;
+	background: url(../images/bg_localnavi_category.jpg) no-repeat 0 -200px;
 }
 
 #localNavi ul{

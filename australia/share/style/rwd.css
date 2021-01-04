@@ -917,10 +917,10 @@ body.overlaySearch .formArea form .btnClose {
 	height: 40px;
 }
 #localNavi h2.current a {
-    background: url(../images/bg_localNavi_category.jpg) repeat-x scroll 0px 0px;
+    background: url(../images/bg_localnavi_category.jpg) repeat-x scroll 0px 0px;
 }
 #localNavi h2.current a:hover {
-    background: url(../images/bg_localNavi_category.jpg) repeat-x scroll 0px -100px;
+    background: url(../images/bg_localnavi_category.jpg) repeat-x scroll 0px -100px;
 }
 
 #contentWrapper.localNavi {
