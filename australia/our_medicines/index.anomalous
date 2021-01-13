@@ -51,6 +51,9 @@
     <div class="box-text">
       <p>One area of such focus is Cutaneous T-cell Lymphoma (CTCL), an ongoing unmet need. This haematological cancer initially affects the skin but then can also involve the blood, lymph nodes, and other internal organs.</p>
     <!-- /.box-text --></div>
+    <div class="box-text">
+      <p>Ref: Australian Clinical Practice Statement: MYCOSIS FUNGOIDES AND SEZARY SYNDROME. July 2020</p>
+    <!-- /.box-text --></div>
   <!-- content --></div>
   <div class="box-image">
     <img src="/australia/our_medicines/images/index_img_our_medicine_03.jpg" alt="">
@@ -62,6 +65,9 @@
     <h2 class="hdg-lv2-05">X-linked hypophosphataemia (XLH)</h2>
     <div class="box-text">
       <p>Another area is X-linked hypophosphataemia (XLH), a rare genetic disorder which causes phosphate wasting, and affects children and adults. The progressive and compounding symptoms of XLH lead to skeletal defects, muscular dysfunction, and dental abnormalities.</p>
+    <!-- /.box-text --></div>
+    <div class="box-text">
+      <p>Ref: Haffner et al. Nat Rev Nephrol. 2019 Jul;15(7):435-455</p>
     <!-- /.box-text --></div>
   <!-- content --></div>
   <div class="box-image">
@@ -127,5 +133,12 @@
 <!-- /.str-section --></div>
 <!-- /.str-section-wrapper --></div>
 
+<div class="str-section-wrapper">
+<div class="str-section str-section-boxed-1200px">
+  <br/>
+  <div class="box-text sp-hide"><p>KKAU-COR-2012242</p><!-- /.box-text --></div>
+  <div class="box-text text-center pc-hide"><p>KKAU-COR-2012242</p><!-- /.box-text --></div>
+<!-- /.str-section --></div>
+<!-- /.str-section-wrapper --></div>
 
 <partial src="../includes/footer.html"/>

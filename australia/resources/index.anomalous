@@ -129,4 +129,12 @@
 <!-- /.str-section --></div>
 <!-- /.str-section-wrapper --></div>
 
+<div class="str-section-wrapper">
+<div class="str-section str-section-boxed-1200px">
+  <br/>
+  <div class="box-text sp-hide"><p>KKAU-COR-2012243</p><!-- /.box-text --></div>
+  <div class="box-text text-center pc-hide"><p>KKAU-COR-2012243</p><!-- /.box-text --></div>
+<!-- /.str-section --></div>
+<!-- /.str-section-wrapper --></div>
+
 <partial src="../includes/footer.html"/>

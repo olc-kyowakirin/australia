@@ -5,7 +5,7 @@
 <meta property="og:description" content="Kyowa Kirin Australia Pty Ltd, 68 York Street, Sydney NSW 2000, Australia - E-mail: enquiry.kkau@kyowakirin.com">
 <partial src="../includes/header-title.html"/>
 <link rel="canonical" href="https://www.kyowakirin.com/australia/contact_us/index.html">
-<style> .wrapper{ padding-bottom:0px; } .footer{ background-color: #f3f3f3; }</style>
+<style> .wrapper { padding-bottom:0px !important } .footer{ background-color: #f3f3f3 !important; }</style>
 <partial src="../includes/header-end.html"/>
 
 
@@ -159,6 +159,13 @@
 <!-- /.box-hdg2-wrapper --></div>
 <!-- /.box-get-to-know-us --></div>
 <!-- /.str-section --></div>
-<br/><br/><br/>
+
+<div class="str-section str-section-boxed-1200px">
+<br/>
+<div class="box-text sp-hide"><p>KKAU-COR-2012244</p><!-- /.box-text --></div>
+<div class="box-text text-center pc-hide"><p>KKAU-COR-2012244</p><!-- /.box-text --></div>
+<!-- /.str-section --></div>
 <!-- /.str-section-wrapper --></div>
+
+
 <partial src="../includes/footer.html"/>
