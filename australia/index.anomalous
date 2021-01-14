@@ -167,9 +167,7 @@
 
 <div class="str-section-wrapper">
 <div class="str-section str-section-boxed-1200px">
-  <br/>
-  <div class="box-text sp-hide"><p>KKAU-COR-2012241</p><!-- /.box-text --></div>
-  <div class="box-text text-center pc-hide"><p>KKAU-COR-2012241</p><!-- /.box-text --></div>
+  <div class="box-text text-center small-text footer-code"><p>KKAU-COR-2012241</p><!-- /.box-text --></div>
 <!-- /.str-section --></div>
 <!-- /.str-section-wrapper --></div>
 

@@ -643,6 +643,26 @@ template {
   max-width: 1200px;
   margin: 0 auto;
 }
+.small-text, .small-text p
+{
+  font-size:1.3rem !important;
+}
+@media only screen and (max-width: 768px) {
+  .footer-code
+  {
+    margin-top:75px !important;
+    margin-bottom: -50px !important;
+    padding: 5px;
+  }
+}
+@media only screen and (min-width: 769px) {
+  .footer-code
+  {
+    margin-top:75px !important;
+    margin-bottom: -100px !important;
+    padding: 5px;
+  }
+}
 
 .str-section.str-section-boxed-980px,
 .footer > .footer-inner,
