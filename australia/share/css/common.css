@@ -643,10 +643,17 @@ template {
   max-width: 1200px;
   margin: 0 auto;
 }
+
 .small-text, .small-text p
 {
   font-size:1.3rem !important;
 }
+@media only screen and (max-width: 450px) {
+  .btn-grey-orange.small-text > span::after,
+  .btn-orange-grey.small-text > span::after,
+  .btn-orange-white.small-text > span::after{ display:none; }
+}
+
 @media only screen and (max-width: 768px) {
   .footer-code
   {
@@ -1748,6 +1755,9 @@ main.type-01 + footer {
 .box-text.white-text{
   color: white;
 }
+.small-text, .small-text > p, .small-text > a {
+  font-size:1.3rem !important;
+}
 
 /* ============================================================================
 * リンク設定
@@ -2494,6 +2504,8 @@ a img.icon-pdf {
 .btn-olc-small-size.btn-arrow-down:hover > span::after{
     transform: rotate(90deg) translateX(5px);
 }
+
+
 @media only screen and (min-width: 991px) {
 .btn-olc-small-size.btn-align-right {
   display: inline-block;
