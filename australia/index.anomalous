@@ -64,7 +64,7 @@
       <br/>
       <div class="box-button-olc">
       <div class="box-hdg2-wrapper">
-          <a href="#modal-president" class="small-text btn-olc-small-size btn-orange-grey btn-modalopen kkc-anime_scroll_common_fade-in-bottom kkc-anime_state_show kkc-anime_state_animation-end"><span>Message from our General Manager</span></a>
+          <a href="#modal-president" class="btn-olc-small-size no-arrow btn-orange-grey btn-modalopen kkc-anime_scroll_common_fade-in-bottom kkc-anime_state_show kkc-anime_state_animation-end"><span>Message from our General Manager</span></a>
       <!-- /.box-hdg2-wrapper --></div>
       <!-- /.box-button-olc --></div>
     <!-- /.box-text --></div>
