@@ -1654,6 +1654,10 @@ main.type-01 + footer {
    color: #ea5504 !important;
 }
 
+@media only screen and (max-width: 768px) {
+  .str-section-wrapper.resources-03  .hdg-lv2-05 { font-size: 1.7rem !important; }
+}
+
 .box-hdg2-wrapper .hdg-lv2-05{
   font-size: calc(4.2rem/2);
   font-weight: 500;
@@ -13140,8 +13144,10 @@ ul.dot-list li{ padding-bottom: 10px;}
 }
 
 /* css for resource articles */
+.resources-article-01 .header-post-date{ margin-top:-10px; margin-bottom:30px;}
 .resources-article-02 .box-text p,
 .resources-article-02 .box-text .image { padding-bottom:20px !important; }
+
 /* general css */
 .box-button-olc{ padding-top:20px; }
 .no-wrap{ white-space:nowrap; }
