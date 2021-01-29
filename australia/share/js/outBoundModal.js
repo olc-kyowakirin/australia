@@ -1,4 +1,4 @@
-$(function () { 
+$(function () {
     'use strict';
 
     var $win = $(window);
@@ -281,6 +281,15 @@ $(function () {
             deferred.resolve().then(function () {
                 $modal.addClass('is-animation');
             });
+            // check links in popup
+            if( $this.hasClass('map-link') )
+            {
+                var $a = $('.box-modal-outbound a').not('.box-modal-outbound a[href^="mailto:"], .box-modal-outbound a[href^="tel:"]');
+
+                if ($a.length) {
+                    $a.setOutboundModal();
+                }
+            }
         };
         var modalClose = function () {
             var bodyTop = Math.abs(parseInt($body.css('marginTop'), 10));
