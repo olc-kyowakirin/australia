@@ -2010,7 +2010,7 @@ a img.icon-pdf {
   top: 1px;
   right: 0;
   display: block;
-  width: 15px;
+  /* width: 15px; */
   height: auto;
 }
 
@@ -8196,9 +8196,10 @@ div#message-president .box-image{
     padding-right: 26px;
   }
   .box-panel-01 > .panel:not(.type-02) > .box-inner .box-content .box-date [class^="icon-"] {
-    top: -4px;
-    width: 23px;
-    height: 23px;
+    top: -5px;
+    right: -5px;
+    width: 24px;
+    height: 24px;
   }
   .btn-01.btn-small,
   .btn-small.btn-back {
@@ -11779,8 +11780,8 @@ div#message-president .box-image{
 }
 
 @media screen and (max-width: 769px) {
-  a img.icon-pdf,
-  a img.icon-blank {
+  a img.icon-pdfxx,
+  a img.icon-blankxx {
     width: 18px;
     height: 18px;
   }
