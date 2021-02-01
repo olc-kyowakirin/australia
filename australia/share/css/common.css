@@ -12300,7 +12300,7 @@ div#message-president .box-image{
     top: 0;
 }
 
-@media only screen and (min-width: 1024px){
+@media only screen and (min-width: 769px){
 .box-hdg-wrapper.type-03 .box-hdg-container .box-content-left,
 .box-hdg-wrapper.type-05 .box-hdg-container .box-content-left {
     max-width: 45%;
@@ -12355,7 +12355,7 @@ footer .footer-area-sub p.footer-copy {
   .box-hdg-wrapper.contact-us-03 {
       min-height: 650px;
       margin-bottom: 80px;
-      margin-top: -90px !important;
+      margin-top: -100px !important;
     }
 
 .box-singaporearea .box-offices-globalarea .box-inner .box-panel .panel {
@@ -13175,14 +13175,14 @@ ul.dot-list li{ padding-bottom: 10px;}
 .map-area { position:relative;float:left; width:100%; height:auto; }
 .map-area .map-image {position:unset !important;}
 .map-area .map-link { position: absolute; width: 2.9%; height: 4.55%; z-index: 2;}
-.map-area .map-link-ko {    left: 62.5%;    top: 5.5%;  }
-.map-area .map-link-ch {    left: 58.3%;    top: 10.84%;}
-.map-area .map-link-tw {    left: 59.6%;    top: 17.0%; }
-.map-area .map-link-kk {    left: 53.4%;    top: 20.2%; }
-.map-area .map-link-th {    left: 46.0%;    top: 28.36%;}
-.map-area .map-link-my {    left: 47.0%;    top: 36.1%; }
-.map-area .map-link-sg {    left: 49.2%;    top: 41.1%; }
-.map-area .map-link-au {    left: 77.9%;    top: 79.9%; }
+.map-area .map-link-ko {    left: 62.5%;    top: 15.5%;  }
+.map-area .map-link-ch {    left: 58.3%;    top: 20.84%;}
+.map-area .map-link-tw {    left: 59.6%;    top: 26.0%; }
+.map-area .map-link-kk {    left: 53.4%;    top: 29.2%; }
+.map-area .map-link-th {    left: 46.0%;    top: 36.36%;}
+.map-area .map-link-my {    left: 47.0%;    top: 43.4%; }
+.map-area .map-link-sg {    left: 49.2%;    top: 47.5%; }
+.map-area .map-link-au {    left: 77.9%;    top: 81.9%; }
 
 .box-hdg-wrapper.contact-us-03 { pointer-events: none;}
 .box-hdg-wrapper.contact-us-03 a { pointer-events:all;}
