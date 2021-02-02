@@ -12289,11 +12289,12 @@ div#message-president .box-image{
     display: flex;
     align-items: center;
 }
+.contact-us-01{z-index: 1;}
 .contact-us-03{
     max-width: 1000px;
     margin: auto;
     margin-top: -75px;
-    z-index: -1;
+    z-index: 0;
 }
 .contact-us-03 .image img{
     width: 100%;
