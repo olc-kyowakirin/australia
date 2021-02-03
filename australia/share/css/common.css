@@ -5519,7 +5519,7 @@ div#message-president .box-image{
 .box-corevalue-top .box-corevalue-wrapper .parts-innovation {
   right: 1.33333vw;
   bottom: -132vw;
-  width: 63.86667vw;
+  width: 65vw;
 }
 
 .box-corevalue-top .box-corevalue-wrapper .parts-innovation .parts-feature-before.minimum ~ .parts-feature-after {
@@ -5535,9 +5535,9 @@ div#message-president .box-image{
 }
 
 .box-corevalue-top .box-corevalue-wrapper .parts-integrity {
-  bottom: -176vw;
+  bottom: -170.5vw;
   left: 0;
-  width: 53.73333vw;
+  width: 65vw;
 }
 
 .box-corevalue-top .box-corevalue-wrapper .parts-integrity .parts-feature-before.minimum ~ .parts-feature-after {
@@ -5555,8 +5555,8 @@ div#message-president .box-image{
 
 .box-corevalue-top .box-corevalue-wrapper .parts-temwork {
   right: 0;
-  bottom: -220vw;
-  width: 60.66667vw;
+  bottom: -225vw;
+  width: 65vw;
 }
 
 .box-corevalue-top .box-corevalue-wrapper .parts-temwork .parts-feature-before.minimum ~ .parts-feature-after {
@@ -13178,7 +13178,7 @@ ul.dot-list li{ padding-bottom: 10px;}
 .map-area .map-image {position:unset !important;}
 .map-area .map-link { position: absolute; width: 2.9%; height: 4.55%; z-index: 2;}
 
-.map-area .map-link-ko {left: 60.8%;top: 12.0%;}
+.map-area .map-link-ko {left: 61.5%;top: 13.3%;}
 .map-area .map-link-ch {left: 58.2%;top: 17.9%;}
 .map-area .map-link-tw {left: 59.6%;top: 25.8%;}
 .map-area .map-link-kk {left: 53.8%;top: 27.8%;}
