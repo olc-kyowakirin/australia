@@ -437,16 +437,6 @@ template {
     color: #ffffff !important;
 }
 
-.str-section.focus-box{
-    max-width:400px;
-    padding: 5em 5em 3em 5em;
-    background-image: url('/australia/images/index_bg_focus-box_01.png');
-    background-size: contain;
-    background-position: center center;
-    background-repeat: no-repeat;
-}
-
-
 
 /* ============================================================================
 * Font Face
@@ -11267,9 +11257,6 @@ footer .footer-area-sub p.footer-copy {
   color: white;
   font-size: 1.5rem;
 }
-.str-section.focus-box{
-    padding: 6em 4em 3em 4em;
-}
 }
 
 .box-hdg-wrapper.type-05 .box-hdg-container{
@@ -11300,10 +11287,6 @@ footer .footer-area-sub p.footer-copy {
 }
 .js-enable .box-offices-globalarea .box-panel .panel:nth-child(even){
   margin-left:10px;
-}
-.str-section.focus-box{
-    padding: 6em 12em 3em 12em;
-    max-width: 600px;
 }
 }
 
