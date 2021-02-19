@@ -346,7 +346,7 @@ template {
 
 /* Slider */
 .slick-loading .slick-list {
-  background: #fff url("../images/ajax-loader.gif") center center no-repeat;
+  background: #fff url("../images/ajax_loader.gif") center center no-repeat;
 }
 
 /* Icons */
@@ -733,25 +733,25 @@ template {
 
 .str-section-wrapper.str-section-grey-bg,
 .box-atagrance-top{
-  background-image: url('/australia/images/index_img_bg_get-to-know_01.png');
+  background-image: url('/australia/images/index_img_bg_get_to_know_01.png');
   background-size: cover;
   background-position: top center;
   background-repeat: no-repeat;
 }
 .str-section-wrapper.str-section-blue-bg{
-  background-image: url('/australia/images/index_bg_section-blue_01.png');
+  background-image: url('/australia/images/index_bg_section_blue_01.png');
   background-size: cover;
   background-position: top center;
   background-repeat: no-repeat;
 }
 .str-section-wrapper.str-section-pink-bg{
-  background-image: url('/australia/images/index_bg_section-pink_01.png');
+  background-image: url('/australia/images/index_bg_section_pink_01.png');
   background-size: cover;
   background-position: top center;
   background-repeat: no-repeat;
 }
 .str-section-wrapper.str-section-orange-bg{
-  background-image: url('/australia/images/index_bg_section-orange_01.png');
+  background-image: url('/australia/images/index_bg_section_orange_01.png');
   background-size:  cover;
   background-position: top center;
   background-repeat: no-repeat;
