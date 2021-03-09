@@ -11903,7 +11903,7 @@ footer .footer-area-sub p.footer-copy {
 .box-panel-01.col2.col21 > .panel:first-child { width: 66%;  }
 .box-panel-01.col2.col21 > .panel:last-child { width: calc(34% - 20px); }
 }
-.str-section-wrapper.resources-03 .box-panel-01.col2.col21 > .panel:first-child > .box-inner{ background-color: #1ba8d6 !important;  }
+.str-section-wrapper.resources-03 .box-panel-01.col2.col21 > .panel:first-child > .box-inner{ background-color: #176832 !important;  }
 .str-section-wrapper.resources-03 .box-panel-01 .panel .box-thumb img { height:100%; width:100%; }
 .str-section-wrapper.resources-03 .box-panel-01 .panel .btn-olc-small-size{ padding: 0px !important; }
 
@@ -11964,6 +11964,12 @@ ul.dot-list li{ padding-bottom: 10px;}
     height: calc(100vw / 2) !important;
     max-height: 400px !important;
 }
+
+p.link-row { width:100%;  line-height: 40px; }
+p.link-row.link-row-1 { background-color: #f6f6f6; }
+p.link-row a { color: #5d6164 !important; width:100%; }
+p.link-row a img { position: relative; float: left; padding: 5px 20px;  }
+p.link-row a span { line-height: 30px; padding-left: 5px; }
 
 
 /* contact us page map */

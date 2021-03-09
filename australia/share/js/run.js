@@ -1428,7 +1428,7 @@
     * ==================== */
     (function () {
         $win.on('load', function () {
-            var $linkPdf = $('body').find('a[href$=".pdf"]').not('.notAddSize');
+            var $linkPdf = $('body').find('a[href$=".pdf"],a[href$=".csv"]').not('.notAddSize');
 
             if ($linkPdf.length) {
                 $linkPdf.showFileSize();
