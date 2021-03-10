@@ -11903,7 +11903,8 @@ footer .footer-area-sub p.footer-copy {
 .box-panel-01.col2.col21 > .panel:first-child { width: 66%;  }
 .box-panel-01.col2.col21 > .panel:last-child { width: calc(34% - 20px); }
 }
-.str-section-wrapper.resources-03 .box-panel-01.col2.col21 > .panel:first-child > .box-inner{ background-color: #176832 !important;  }
+.str-section-wrapper.resources-03 .box-panel-01.col3 > .panel > .box-inner { background-color: #176832 !important;  }
+.str-section-wrapper.resources-03 .box-panel-01.col2.col21 > .panel:first-child > .box-inner{ background-color: #ea5504 !important;  }
 .str-section-wrapper.resources-03 .box-panel-01 .panel .box-thumb img { height:100%; width:100%; }
 .str-section-wrapper.resources-03 .box-panel-01 .panel .btn-olc-small-size{ padding: 0px !important; }
 
