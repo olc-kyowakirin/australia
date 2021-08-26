@@ -117,9 +117,22 @@
 <!-- /.str-section --></div>
 <!-- /.str-section-wrapper --></div>
 
-<div class="str-section-wrapper our-medicines-03">
-<div class="str-section str-section-boxed-800px str-section-spacing">
+<div class="str-section-wrapper our-medicines-04">
+<div class="str-section str-section-boxed str-section-spacing">
 <div class="box-hdg2-wrapper">
+  <h2 class="hdg-lv2-03">Product Information</h2>
+<div class="box-content">
+  <h2 class="hdg-lv2-03">CRYSViTA®</h2>
+<!-- /.box-content --></div>
+<div class="box-layout-image layout-keep-spt layout-left content-valign">
+<div class="box-content">
+<div class="box-text">
+  <p><a href="/australia/our_medicines/doc/crysvita_product_information_leaflet.pdf" target="_blank"><img src="/australia/share/images/icon_pdf_blank_01.png" alt="PDF file" class="icon-pdf"> Product Information leaflet</a></p>
+  <p><a href="/australia/our_medicines/doc/crysvita_consumer_medicine_information_leaflet.pdf" target="_blank"><img src="/australia/share/images/icon_pdf_blank_01.png" alt="PDF file" class="icon-pdf"> Consumer Medicine Information leaflet</a></p>
+<!-- /.box-text --></div>
+<!-- content --></div>
+<!-- /.box-layout-image --></div>
+
 <div class="box-content">
 <h2 class="hdg-lv2-03">POTELIGEO®</h2>
 <!-- /.box-content --></div>
@@ -130,17 +143,11 @@
 <p><a href="/australia/our_medicines/doc/poteligeo_consumer_medicine_information_leaflet.pdf" target="_blank"><img src="/australia/share/images/icon_pdf_blank_01.png" alt="PDF file" class="icon-pdf"> Consumer Medicine Information leaflet</a></p>
 <!-- /.box-text --></div>
 <!-- content --></div>
-<div class="box-image">
-<img src="/australia/our_medicines/images/index_img_our_medicine_05.jpg" alt="POTELIGEO®">
-<!-- image --></div>
 <!-- /.box-layout-image --></div>
-
 
 <!-- /.box-hdg2-wrapper --></div>
 <!-- /.str-section --></div>
 <!-- /.str-section-wrapper --></div>
-
-
 
 
 <div class="str-section-wrapper olc-button-section">
@@ -154,7 +161,7 @@
 
 <div class="str-section-wrapper">
 <div class="str-section str-section-boxed-1200px">
-<div class="box-text text-center small-text footer-code"><p>KKAU-COR-2012242a</p><!-- /.box-text --></div>
+<div class="box-text text-center small-text footer-code"><p>KKAU-COR-2012242b</p><!-- /.box-text --></div>
 <!-- /.str-section --></div>
 <!-- /.str-section-wrapper --></div>
 <partial src="../includes/footer.html"/>

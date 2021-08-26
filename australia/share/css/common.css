@@ -1325,6 +1325,14 @@ main.type-01 + footer {
 .box-hdg2-wrapper .hdg-lv2-03{
   color: #ea5504;
 }
+.our-medicines-04 .box-hdg2-wrapper .box-content .hdg-lv2-03{
+  color: #5D6164 !important;
+}
+@media only screen and (min-width: 769px) {
+.our-medicines-04 .box-hdg2-wrapper .box-content {
+  padding: 0px 15% !important;
+}
+}
 .box-hdg2-wrapper .hdg-lv2-04{
   color: #ffffff;
 }
@@ -11849,6 +11857,8 @@ footer .footer-area-sub p.footer-copy {
 
 @media only screen and (max-width: 600px) {
   .our-medicines-03 .box-layout-image .box-content { text-align: center ; }
+  .our-medicines-04 .box-layout-image .box-content { text-align: center ; }
+
 }
 
 @media only screen and (min-width: 601px) and (max-width: 1024px) {
@@ -11903,6 +11913,8 @@ footer .footer-area-sub p.footer-copy {
 .box-panel-01.col2.col21 > .panel:first-child { width: 66%;  }
 .box-panel-01.col2.col21 > .panel:last-child { width: calc(34% - 20px); }
 }
+
+.str-section-wrapper.resources-03 .box-panel-01.col2.col21 > .panel:last-child > .box-inner { background-color: #176832 !important;  }
 .str-section-wrapper.resources-03 .box-panel-01.col3 > .panel > .box-inner { background-color: #176832 !important;  }
 .str-section-wrapper.resources-03 .box-panel-01.col2.col21 > .panel:first-child > .box-inner{ background-color: #ea5504 !important;  }
 .str-section-wrapper.resources-03 .box-panel-01 .panel .box-thumb img { height:100%; width:100%; }
