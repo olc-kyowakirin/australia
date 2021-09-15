@@ -19,7 +19,7 @@
 <!-- /.str-section-wrapper --></div>
 <div class="str-section-wrapper">
 <div class="str-section str-section-boxed-800px">
-<div class="box-hdg2-wrapper">
+<div class="box-hdg2-wrapper" id="anc-our-therapeutic-areas">
 <div class="box-content">
 <h2 class="hdg-lv2-02">Bringing innovation and technology to the patient-care journey</h2>
 <div class="box-text">
@@ -73,7 +73,7 @@
 
 <div class="str-section-wrapper">
 <div class="str-section str-section-boxed str-section-spacing">
-<div class="box-hdg2-wrapper">
+<div class="box-hdg2-wrapper" id="anc-making-the-journey-count">
 <h2 class="hdg-lv2-03">Making the journey count</h2>
 <div class="box-text text-center">
 <p>Kyowa Kirin is a Japan-based Global Specialty Pharmaceutical Company, contributing to human health and well-being worldwide through innovative drug discovery and global commercialisation, driven by state-of-the-art antibody technologies, in the core therapeutic areas of Nephrology, Oncology, Immunology & Allergy, and Central Nervous System.</p>
@@ -119,7 +119,7 @@
 
 <div class="str-section-wrapper our-medicines-04">
 <div class="str-section str-section-boxed str-section-spacing">
-<div class="box-hdg2-wrapper">
+<div class="box-hdg2-wrapper" id="anc-product-information">
   <h2 class="hdg-lv2-03">Product Information</h2>
 <div class="box-content">
   <h2 class="hdg-lv2-03">CRYSViTA®</h2>
