@@ -6614,7 +6614,7 @@ div#message-president .box-image{
     width: 48%;
   }
   .js-enable .box-corevalue-top .box-corevalue-wrapper .parts-feature {
-    width: auto;
+    width: fit-content;
     transform: scale(0.9);
   }
   .sustainability-06 .str-section {
