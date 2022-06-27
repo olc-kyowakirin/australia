@@ -11957,6 +11957,7 @@ ul.dot-list li{ padding-bottom: 10px;}
 .resources-article-01 .header-post-date{ margin-top:-10px; margin-bottom:30px;}
 .resources-article-02 .box-text p,
 .resources-article-02 .box-text .image { padding-bottom:20px !important; }
+.resources-article-04 .box-layout-image .box-image img{ max-width:100%;}
 
 /* general css */
 .box-button-olc{ padding-top:20px; }
