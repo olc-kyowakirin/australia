@@ -45,7 +45,9 @@
 <!-- /.box-layout-image --></div>
 
 <div class="box-text">
-<p><b>PBS Information: This medicine is not available through the PBS.</b></p>
+<p class="border-text center-text bold-text" >PBS Information: This medicine is not available through the PBS.</p>
+<!-- .box-text --></div>
+<div class="box-text">
 <p>For Healthcare Professionals: Please review full <a class="sizeAdded" href="/australia/resources/2022/06/australias_pbac_recommends_crysvita_burosumab_for_listing_on_the_pbs/doc/crysvita_product_information_leaflet.pdf" target="_blank" >Crysvita Product Information</a> before prescribing.</p>
 <p>For the general public: Please review full <a class="sizeAdded" href="/australia/resources/2022/06/australias_pbac_recommends_crysvita_burosumab_for_listing_on_the_pbs/doc/crysvita_consumer_medicine_information_leaflet.pdf" target="_blank" >Consumer Medicine Information</a> for further information.</p>
 <!-- .box-text --></div>
