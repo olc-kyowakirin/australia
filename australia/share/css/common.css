@@ -138,6 +138,9 @@ sup {
   top: -.5em;
 }
 
+h1.hdg-lv2-03 sup { top: -1.5em !important;font-size: 40% !important;}
+h2.hdg-lv2-05 sup { top: -1.5em !important;font-size: 40% !important;}
+
 /* Embedded content
    ========================================================================== */
 /**
