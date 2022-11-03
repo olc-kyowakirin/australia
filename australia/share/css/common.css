@@ -124,7 +124,7 @@ small {
  */
 sub,
 sup {
-  font-size: 75%;
+  font-size: 65%;
   line-height: 0;
   vertical-align: baseline;
   position: relative;
@@ -139,7 +139,7 @@ sup {
 }
 
 h1.hdg-lv2-03 sup { top: -1.5em !important;font-size: 40% !important;}
-h2.hdg-lv2-05 sup { top: -1.5em !important;font-size: 40% !important;}
+h2.hdg-lv2-05 sup { top: -1.2em !important;font-size: 50% !important;}
 
 /* Embedded content
    ========================================================================== */
